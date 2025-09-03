@@ -20,14 +20,3 @@ Après 6 années de recherche publique en IA (reconnaissance d'images et neuro-s
 
 - Email : ludovic.declermont@proton.me
 - LinkedIn : [[Votre lien LinkedIn]](https://www.linkedin.com/in/ludovic-de-clermont-6142b792/)
-
-# 📊 Statistiques GitHub :
-![](https://github-readme-stats.vercel.app/api?username=ludovicdmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ludovicdmt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovicdmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ludovicdmt&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
-*Merci d’être passé sur mon profil ! Bonne journée 🚀*
