@@ -19,4 +19,4 @@ Après 6 années de recherche publique en IA (reconnaissance d'images et neuro-s
 ## 📫 Me contacter
 
 - Email : ludovic.declermont@proton.me
-- LinkedIn : [[Votre lien LinkedIn]](https://www.linkedin.com/in/ludovic-de-clermont-6142b792/)
+- [LinkedIn](https://www.linkedin.com/in/ludovic-de-clermont-6142b792/)
