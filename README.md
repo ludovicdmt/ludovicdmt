@@ -6,10 +6,10 @@ Après 6 années de recherche publique en IA (reconnaissance d'images et neuro-s
 
 ## 🚀 À propos de moi
 
-- 🧑‍💻 **Ingénieur logiciel** | Data-scientist | Apprenant perpétuel
+- 🧑‍💻 **Data-scientist** | Dev full-stack
+- 💡 Intéressé par : **IA/ML**, **Développement Web**, **Open Source**
+- 🛠️ Langages & Outils : Python, VueJS, Django, PostGIS, TensorFlow, PyTorch, Sklearn, MapLibre
 - 🌍 Basé à Lyon
-- 💡 Intéressé par : **Développement Web**, **Open Source**, **IA/ML**
-- 🛠️ Langages & Outils : Python, VueJS, Django, TensorFlow, PyTorch, Sklearn, MapLibre
 
 ## 📝 Projets
 
