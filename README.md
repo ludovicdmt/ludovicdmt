@@ -4,7 +4,7 @@ Je suis un un data-scientist engagé.
 
 Après 6 années de recherche publique en IA (reconnaissance d'images et neuro-sciences), je fais partie maintenant de la coopérative [TelesCoop](https://telescoop.fr).
 
-## 🚀 À propos de moi
+## 📌 À propos de moi
 
 - 🧑‍💻 **Data-scientist** | Dev full-stack
 - 💡 Intéressé par : **IA/ML**, **Développement Web**, **Open Source**
